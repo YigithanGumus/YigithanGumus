@@ -1,4 +1,4 @@
-[![MasterHead](http://media.licdn.com/dms/image/C5603AQH9eOltGI6zDg/profile-displayphoto-shrink_800_800/0/1646069903507?e=1715212800&v=beta&t=OX4caKdpQLkmod3v68GdllMcKMLRaBT0_yPgWH6eNQI)
+![MasterHead](http://media.licdn.com/dms/image/C5603AQH9eOltGI6zDg/profile-displayphoto-shrink_800_800/0/1646069903507?e=1715212800&v=beta&t=OX4caKdpQLkmod3v68GdllMcKMLRaBT0_yPgWH6eNQI)
 <h1 align="center">Hi 👋, I'm Yiğithan Gümüş</h1>
 <h3 align="center">I am a web developer in Turkey.</h3>
 
