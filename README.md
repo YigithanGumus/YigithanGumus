@@ -10,7 +10,7 @@ I use modern tools and technologies to create seamless and effective projects fo
 ### 📱 **Connect with me:**  
 - [LinkedIn](https://linkedin.com/in/yiğithan-gümüş-b66060228)  
 - [Instagram](https://instagram.com/yigithangumus)  
-- [YouTube](https://www.youtube.com/c/yigithangumus3158)
+- [YouTube](https://www.youtube.com/@yigithangumuss)
 
 ---
 
@@ -57,11 +57,6 @@ I use modern tools and technologies to create seamless and effective projects fo
 - **Modern Web Applications:** I build fully integrated web applications using full-stack projects.  
 - **API Development:** I design secure and fast APIs and integrate them with third-party services.  
 - **Responsive Design:** I create responsive interfaces that work flawlessly on all devices.
-
----
-
-**My GitHub Account:**  
-[**YigithanGumus**](https://github.com/YigithanGumus)
 
 ---
 
