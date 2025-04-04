@@ -66,4 +66,4 @@ Geliştirdiğim projelerde, her iki tarafı da etkili bir şekilde kullanarak m�
 ---
 
 🌟 **Projelerim ve Çalışmalarım:**  
-Geliştirdiğim projeleri görmek için GitHub reposunda keşfe çıkabilirsiniz! 🚀  
+Geliştirdiğim projeleri görmek için GitHub reposunda keşfe çıkabilirsiniz! 🚀
