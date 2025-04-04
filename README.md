@@ -1,13 +1,69 @@
-![MasterHead](http://media.licdn.com/dms/image/C5603AQH9eOltGI6zDg/profile-displayphoto-shrink_800_800/0/1646069903507?e=1715212800&v=beta&t=OX4caKdpQLkmod3v68GdllMcKMLRaBT0_yPgWH6eNQI)
-<h1 align="center">Hi 👋, I'm Yiğithan Gümüş</h1>
-<h3 align="center">I am a web developer in Turkey.</h3>
+# 👋 Merhaba, Ben Yiğithan Gümüş
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yiğithan-gümüş-b66060228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğithan-gümüş-b66060228" height="30" width="40" /></a>
-<a href="https://instagram.com/yigithangumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigithangumus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yigithangumus3158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yigithangumus3158" height="30" width="40" /></a>
-</p>
+🎯 **Full-Stack Web Geliştiricisi | Türkiye**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Ben Yiğithan, web geliştirme dünyasında hem frontend hem de backend taraflarında çalışarak projeler oluşturuyorum. Kullanıcı dostu, hızlı ve ölçeklenebilir web uygulamaları geliştirmek konusunda tutkuluyum. 💻🚀  
+Geliştirdiğim projelerde, her iki tarafı da etkili bir şekilde kullanarak mükemmel sonuçlar elde ediyorum. 🎨💡
+
+---
+
+### 📱 **Beni Takip Et:**  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/yiğithan-gümüş-b66060228)  
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/yigithangumus)  
+[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/yigithangumus3158)
+
+---
+
+### 🛠️ **Kullandığım Diller ve Araçlar:**
+
+#### **Frontend Teknolojileri:**
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)  
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)  
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)](https://vuejs.org/)  
+[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com)  
+
+#### **Backend Teknolojileri:**
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)  
+[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)  
+[![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](https://laravel.com/)  
+[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)  
+[![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)](https://dotnet.microsoft.com/)
+
+#### **Veritabanı Yönetim Sistemleri:**
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)  
+[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)  
+[![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org)  
+[![MariaDB](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg)](https://mariadb.org/)  
+[![MS SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server)
+
+#### **Diğer Araçlar ve Teknolojiler:**
+[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)  
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)  
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)
+
+---
+
+### 🌟 **Full-Stack Geliştirici Olarak Neler Yapıyorum?**
+
+- **Frontend:** HTML5, CSS3, JavaScript ve Vue.js ile kullanıcı dostu ve responsive web uygulamaları geliştiriyorum. Modern tasarımlar ve etkileşimli özellikler için **Bootstrap** ve **Vue.js** kullanıyorum. 🎨📱  
+- **Backend:** Node.js, PHP, Laravel ve **.NET** ile güçlü ve ölçeklenebilir backend çözümleri oluşturuyorum. Veritabanlarıyla güçlü bağlantılar kurarak **RESTful API** ve **GraphQL** servisleri geliştiriyorum. ⚙️💡  
+- **Veritabanları:** Veritabanı yönetiminde **MySQL**, **MongoDB**, **PostgreSQL** gibi teknolojilerle verimli çözümler sunuyorum. 📊💾  
+- **Deployment:** Docker, Git ve Postman gibi araçlarla projelerin yönetimini kolaylaştırarak sürüm kontrolü ve proje dağıtımını yapıyorum. 🚀
+
+---
+
+### 💬 **Web Geliştiricisi Olarak Benimle Çalışmak İçin:**  
+- **Modern Web Uygulamaları:** Full-stack projelerle tam entegre web uygulamaları oluşturuyorum.  
+- **API Geliştirme:** Güvenli ve hızlı API'ler tasarlayıp, üçüncü taraf hizmetlerle entegre ediyorum.  
+- **Responsive Tasarım:** Mobil uyumlu ve tüm cihazlarda düzgün çalışan arayüzler geliştiriyorum.
+
+---
+
+**GitHub Hesabım:**  
+[**YigithanGumus**](https://github.com/YigithanGumus)
+
+---
+
+🌟 **Projelerim ve Çalışmalarım:**  
+Geliştirdiğim projeleri görmek için GitHub reposunda keşfe çıkabilirsiniz! 🚀  
