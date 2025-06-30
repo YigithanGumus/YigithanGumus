@@ -17,11 +17,8 @@ I use modern tools and technologies to create seamless and effective projects fo
 ### 🛠️ **Languages and Tools I Use:**
 
 #### **Frontend Technologies:**
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3schools.com/css/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Vue.js](https://vuejs.org/)
-- [Bootstrap](https://getbootstrap.com)
 
 #### **Backend Technologies:**
 - [Node.js](https://nodejs.org)
